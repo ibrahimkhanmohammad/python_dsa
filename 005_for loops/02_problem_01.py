@@ -7,7 +7,7 @@ for i in range(1,x+1):
         print(i, end=" ")
 
 print("\n")
-# divisible by both 2 and 3:
+# divisible by both 2 and 3:  
 
 x = int(input("Enter x: "))
 

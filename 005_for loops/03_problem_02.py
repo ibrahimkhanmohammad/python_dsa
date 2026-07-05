@@ -7,6 +7,6 @@ for i in range(start, end+1):
     print(i, end=" ")
 
 print("\n")
-
+ 
 for i in range(end, start-1, -1):
     print(i, end=" ")
